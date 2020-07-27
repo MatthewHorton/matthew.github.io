@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Welcome Humans.</title>
+    <title>untagged on Hello Humans.</title>
     <link>https://matthewhorton.github.io/tags/untagged/</link>
-    <description>Recent content in untagged on Welcome Humans.</description>
+    <description>Recent content in untagged on Hello Humans.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -18,7 +18,11 @@
       <pubDate>Thu, 16 Jul 2020 22:11:43 -0500</pubDate>
       
       <guid>https://matthewhorton.github.io/posts/my-first-post/</guid>
-      <description>Dunno. Hi?</description>
+      <description>Dunno. Hi?
+Ok. Ok ok ok. Took some googling, but I got this.
+Installed snapd on Fedora in order to install Hugo extended. This allowed me to use the themes that I really liked.
+Then I had to clean up my git modules because I kept getting an error about public being in use.
+After that, I edited the deploy.sh script that I got from the official documentation. It was using https, and I changed it to use ssh.</description>
     </item>
     
   </channel>

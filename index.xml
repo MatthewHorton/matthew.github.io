@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome Humans.</title>
+    <title>Hello Humans.</title>
     <link>https://matthewhorton.github.io/</link>
-    <description>Recent content on Welcome Humans.</description>
+    <description>Recent content on Hello Humans.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -13,12 +13,26 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://matthewhorton.github.io/about/</link>
+      <pubDate>Mon, 27 Jul 2020 13:12:32 -0500</pubDate>
+      
+      <guid>https://matthewhorton.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Matt!
+I&amp;rsquo;m just a geek that loves to tinker. I&amp;rsquo;ve been in an out of Linux for just about all of this century. Technically, I started with FreeBSD 3.2 after I got the discs from some old hacker show in the early 2000&amp;rsquo;s. After that it was Slackware, LFS with a LUG, Gentoo, Arch, and now Fedora. I&amp;rsquo;ve used quite a few others, but these were my main distros.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://matthewhorton.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 16 Jul 2020 22:11:43 -0500</pubDate>
       
       <guid>https://matthewhorton.github.io/posts/my-first-post/</guid>
-      <description>Dunno. Hi?</description>
+      <description>Dunno. Hi?
+Ok. Ok ok ok. Took some googling, but I got this.
+Installed snapd on Fedora in order to install Hugo extended. This allowed me to use the themes that I really liked.
+Then I had to clean up my git modules because I kept getting an error about public being in use.
+After that, I edited the deploy.sh script that I got from the official documentation. It was using https, and I changed it to use ssh.</description>
     </item>
     
   </channel>
